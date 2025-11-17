@@ -3,7 +3,7 @@ This repository contains all materials related to my Final Year Project (FYP) ti
 
 The project aims to support Malaysia’s transition toward Net Zero Carbon Emissions (NZCE) 2050 by providing data-driven forecasting and industry-level CO₂ emissions insights.
 
-##🌍 Project Overview
+🌍 Project Overview
 
 Malaysia faces growing environmental challenges due to industrial expansion and increasing energy demand. This project develops a machine learning framework to:
 
