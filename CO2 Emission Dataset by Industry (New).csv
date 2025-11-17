@@ -1,0 +1,257 @@
+Column1,Year,Sector,Total CO2 Emissions (Million Tonnes)
+0,1990,Buildings,2.05
+1,1990,Land Use Change and Forestry,106.03
+2,1990,Other Fuel Combustion,0
+3,1990,Transportation,14.56
+4,1990,Manufacturing and Construction,14.01
+5,1990,Energy Production,1.74
+6,1990,Electricity and Heat,18.98
+7,1990,Aviation and Shipping,1.8
+9,1991,Buildings,2.01
+10,1991,Land Use Change and Forestry,106.03
+11,1991,Other Fuel Combustion,0.4
+12,1991,Transportation,15.67
+13,1991,Manufacturing and Construction,15.4
+14,1991,Energy Production,1.74
+15,1991,Electricity and Heat,26.47
+16,1991,Aviation and Shipping,2.01
+17,1992,Buildings,2.15
+18,1992,Land Use Change and Forestry,106.03
+19,1992,Other Fuel Combustion,1.22
+20,1992,Transportation,16.75
+21,1992,Manufacturing and Construction,16.69
+22,1992,Energy Production,0.97
+23,1992,Electricity and Heat,26.11
+24,1992,Aviation and Shipping,2.07
+25,1993,Buildings,2.5
+26,1993,Land Use Change and Forestry,106.02
+27,1993,Other Fuel Combustion,0.19
+28,1993,Transportation,17.43
+29,1993,Manufacturing and Construction,17.82
+30,1993,Energy Production,1.83
+31,1993,Electricity and Heat,29.82
+32,1993,Aviation and Shipping,2.3
+33,1994,Buildings,2.56
+34,1994,Land Use Change and Forestry,106.02
+35,1994,Other Fuel Combustion,1.31
+36,1994,Transportation,19.25
+37,1994,Manufacturing and Construction,18.43
+38,1994,Energy Production,2.69
+39,1994,Electricity and Heat,31.44
+40,1994,Aviation and Shipping,3.14
+41,1995,Buildings,2.76
+42,1995,Land Use Change and Forestry,105.7
+43,1995,Other Fuel Combustion,1.39
+44,1995,Transportation,20.48
+45,1995,Manufacturing and Construction,20.24
+46,1995,Energy Production,2.39
+47,1995,Electricity and Heat,34.72
+48,1995,Aviation and Shipping,3.32
+49,1996,Buildings,3.95
+50,1996,Land Use Change and Forestry,102.88
+51,1996,Other Fuel Combustion,1.51
+52,1996,Transportation,23.39
+53,1996,Manufacturing and Construction,23.8
+54,1996,Energy Production,2.89
+55,1996,Electricity and Heat,38.28
+56,1996,Aviation and Shipping,3.8
+57,1997,Buildings,3
+58,1997,Land Use Change and Forestry,104.2
+59,1997,Other Fuel Combustion,1.51
+60,1997,Transportation,26.93
+61,1997,Manufacturing and Construction,23.82
+62,1997,Energy Production,3.46
+63,1997,Electricity and Heat,42.03
+64,1997,Aviation and Shipping,3.99
+65,1998,Buildings,3.11
+66,1998,Land Use Change and Forestry,123.22
+67,1998,Other Fuel Combustion,0.95
+68,1998,Transportation,25.15
+69,1998,Manufacturing and Construction,23.62
+70,1998,Energy Production,2.6
+71,1998,Electricity and Heat,44.88
+72,1998,Aviation and Shipping,5.32
+73,1999,Buildings,3.9
+74,1999,Land Use Change and Forestry,102.91
+75,1999,Other Fuel Combustion,0.33
+76,1999,Transportation,30.41
+77,1999,Manufacturing and Construction,23.05
+78,1999,Energy Production,2.59
+79,1999,Electricity and Heat,48.66
+80,1999,Aviation and Shipping,4.74
+81,2000,Buildings,3.98
+82,2000,Land Use Change and Forestry,103.41
+83,2000,Other Fuel Combustion,0.32
+84,2000,Transportation,32.21
+85,2000,Manufacturing and Construction,25.85
+86,2000,Energy Production,2.66
+87,2000,Electricity and Heat,52.7
+88,2000,Aviation and Shipping,4.47
+89,2001,Buildings,3.9
+90,2001,Land Use Change and Forestry,89.91
+91,2001,Other Fuel Combustion,0.31
+92,2001,Transportation,34.96
+93,2001,Manufacturing and Construction,26.42
+94,2001,Energy Production,2.64
+95,2001,Electricity and Heat,54.86
+96,2001,Aviation and Shipping,4.71
+97,2002,Buildings,4.29
+98,2002,Land Use Change and Forestry,95.85
+99,2002,Other Fuel Combustion,0.3
+100,2002,Transportation,35.8
+101,2002,Manufacturing and Construction,28.41
+102,2002,Energy Production,2.69
+103,2002,Electricity and Heat,57.7
+104,2002,Aviation and Shipping,4.56
+105,2003,Buildings,3.71
+106,2003,Land Use Change and Forestry,95.15
+107,2003,Other Fuel Combustion,0.3
+108,2003,Transportation,38.12
+109,2003,Manufacturing and Construction,29.56
+110,2003,Energy Production,3.43
+111,2003,Electricity and Heat,61.1
+112,2003,Aviation and Shipping,4.66
+113,2004,Buildings,4.02
+114,2004,Land Use Change and Forestry,101.77
+115,2004,Other Fuel Combustion,0.27
+116,2004,Transportation,40.96
+117,2004,Manufacturing and Construction,33.3
+118,2004,Energy Production,3.44
+119,2004,Electricity and Heat,68.02
+120,2004,Aviation and Shipping,5.2
+121,2005,Buildings,4.31
+122,2005,Land Use Change and Forestry,104.24
+123,2005,Other Fuel Combustion,0.31
+124,2005,Transportation,40.7
+125,2005,Manufacturing and Construction,35.12
+126,2005,Energy Production,3.46
+127,2005,Electricity and Heat,76.68
+128,2005,Aviation and Shipping,5.01
+129,2006,Buildings,4.48
+130,2006,Land Use Change and Forestry,95.8
+131,2006,Other Fuel Combustion,0.79
+132,2006,Transportation,39
+133,2006,Manufacturing and Construction,37.91
+134,2006,Energy Production,3.63
+135,2006,Electricity and Heat,80.98
+136,2006,Aviation and Shipping,5.43
+137,2007,Buildings,5.97
+138,2007,Land Use Change and Forestry,100.94
+139,2007,Other Fuel Combustion,0.82
+140,2007,Transportation,41.53
+141,2007,Manufacturing and Construction,43.43
+142,2007,Energy Production,3.48
+143,2007,Electricity and Heat,87.67
+144,2007,Aviation and Shipping,5.38
+145,2008,Buildings,5.39
+146,2008,Land Use Change and Forestry,98.31
+147,2008,Other Fuel Combustion,0.83
+148,2008,Transportation,43.62
+149,2008,Manufacturing and Construction,43.2
+150,2008,Energy Production,3.67
+151,2008,Electricity and Heat,98.48
+152,2008,Aviation and Shipping,5.26
+153,2009,Buildings,4.95
+154,2009,Land Use Change and Forestry,111.87
+155,2009,Other Fuel Combustion,0.59
+156,2009,Transportation,42.75
+157,2009,Manufacturing and Construction,29.62
+158,2009,Energy Production,3.67
+159,2009,Electricity and Heat,93
+160,2009,Aviation and Shipping,5.22
+161,2010,Buildings,5.56
+162,2010,Land Use Change and Forestry,108.08
+163,2010,Other Fuel Combustion,3.26
+164,2010,Transportation,44.1
+165,2010,Manufacturing and Construction,30.44
+166,2010,Energy Production,2.9
+167,2010,Electricity and Heat,107.56
+168,2010,Aviation and Shipping,5.89
+169,2011,Buildings,5.08
+170,2011,Land Use Change and Forestry,123.12
+171,2011,Other Fuel Combustion,2.76
+172,2011,Transportation,44.63
+173,2011,Manufacturing and Construction,28.52
+174,2011,Energy Production,3.09
+175,2011,Electricity and Heat,111
+176,2011,Aviation and Shipping,6.76
+177,2012,Buildings,4.38
+178,2012,Land Use Change and Forestry,121.06
+179,2012,Other Fuel Combustion,3.16
+180,2012,Transportation,44.4
+181,2012,Manufacturing and Construction,31.96
+182,2012,Energy Production,4.47
+183,2012,Electricity and Heat,109.4
+184,2012,Aviation and Shipping,6.44
+185,2013,Buildings,4.52
+186,2013,Land Use Change and Forestry,121.06
+187,2013,Other Fuel Combustion,3.14
+188,2013,Transportation,58.17
+189,2013,Manufacturing and Construction,29.1
+190,2013,Energy Production,5.47
+191,2013,Electricity and Heat,114.2
+192,2013,Aviation and Shipping,8.65
+193,2014,Buildings,4.17
+194,2014,Land Use Change and Forestry,107.57
+195,2014,Other Fuel Combustion,3.06
+196,2014,Transportation,65.16
+197,2014,Manufacturing and Construction,28.61
+198,2014,Energy Production,6.5
+199,2014,Electricity and Heat,119.4
+200,2014,Aviation and Shipping,8.6
+201,2015,Buildings,3.98
+202,2015,Land Use Change and Forestry,120.22
+203,2015,Other Fuel Combustion,2.69
+204,2015,Transportation,61.21
+205,2015,Manufacturing and Construction,28.88
+206,2015,Energy Production,7.2
+207,2015,Electricity and Heat,123.66
+208,2015,Aviation and Shipping,8.83
+209,2016,Buildings,4.18
+210,2016,Land Use Change and Forestry,70.12
+211,2016,Other Fuel Combustion,1.14
+212,2016,Transportation,62.89
+213,2016,Manufacturing and Construction,29.69
+214,2016,Energy Production,6.11
+215,2016,Electricity and Heat,118.63
+216,2016,Aviation and Shipping,8.1
+217,2017,Buildings,5.37
+218,2017,Land Use Change and Forestry,63.15
+219,2017,Other Fuel Combustion,3.04
+220,2017,Transportation,60.57
+221,2017,Manufacturing and Construction,32.49
+222,2017,Energy Production,5.46
+223,2017,Electricity and Heat,109.43
+224,2017,Aviation and Shipping,9.24
+225,2018,Buildings,3.38
+226,2018,Land Use Change and Forestry,68
+227,2018,Other Fuel Combustion,2.99
+228,2018,Transportation,60.83
+229,2018,Manufacturing and Construction,35.53
+230,2018,Energy Production,4.34
+231,2018,Electricity and Heat,125.42
+232,2018,Aviation and Shipping,9.1
+233,2019,Buildings,3.35
+234,2019,Land Use Change and Forestry,69.84
+235,2019,Other Fuel Combustion,2.69
+236,2019,Transportation,64.78
+237,2019,Manufacturing and Construction,35.19
+238,2019,Energy Production,4.57
+239,2019,Electricity and Heat,125.59
+240,2019,Aviation and Shipping,8.77
+241,2020,Buildings,4.13
+242,2020,Land Use Change and Forestry,65.22
+243,2020,Other Fuel Combustion,2.5
+244,2020,Transportation,50.16
+245,2020,Manufacturing and Construction,32.2
+246,2020,Energy Production,4.65
+247,2020,Electricity and Heat,136.88
+248,2020,Aviation and Shipping,4.53
+249,2021,Buildings,3.96
+250,2021,Land Use Change and Forestry,65.72
+251,2021,Other Fuel Combustion,3.05
+252,2021,Transportation,49.01
+253,2021,Manufacturing and Construction,35
+254,2021,Energy Production,3.87
+255,2021,Electricity and Heat,134.84
+256,2021,Aviation and Shipping,4.36
